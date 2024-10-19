@@ -4,7 +4,7 @@ const chatContainer = document.querySelector(".chat-container");
 const themeButton = document.querySelector("#theme-btn");
 const deleteButton = document.querySelector("#delete-btn");
 
-const API_KEY = "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";
+// const API_KEY="sk-bS3QZeVB8xboF9iRyQRzbkADOqwl6VmjnNunLB2DGfT3BlbkFJoNeVJy0kHK3poDqIdhqMZvVfW9phG4KO4vr8zT_VcA";
 
 let userText = null;
 
